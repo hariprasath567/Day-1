@@ -81,13 +81,14 @@
 # elif(mark>=40 and mark<=49):
 #     print("grade:f") 
 
-x=float(input("enter the price of dozen of banana:"))
-y=float(input("enter the price of single banana:"))
-value=y*12
-amt=value/x
-if(y<value):
-    print("loss:",amt)
-elif(y>value):
-    print("profit:",amt)
-elif(y==value):
-    print("there is no loss profit")
+# x=float(input("enter the price of dozen of banana:"))
+# y=float(input("enter the price of single banana:"))
+# value=y*12
+# amt=value/x
+# if(y<value):
+#     print("loss:",amt)
+# elif(y>value):
+#     print("profit:",amt)
+# elif(y==value):
+#     print("there is no loss profit")
+
